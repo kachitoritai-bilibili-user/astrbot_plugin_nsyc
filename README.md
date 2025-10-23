@@ -1,9 +1,5 @@
-# helloworld
+# nsyc plugin
 
-AstrBot 插件模板
+基本就是将别人的基于[nonebot的实现](https://github.com/enanandesu/nsyimages)迁移到了astrbot上，小改了一下添加照片的逻辑，加了一个黑称。
 
-A template plugin for AstrBot plugin feature
-
-# 支持
-
-[帮助文档](https://astrbot.app)
+具体功能写完了再补。。。
